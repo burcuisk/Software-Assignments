@@ -1,0 +1,4 @@
+Basic cinema system simulator with C language
+
+This program read text file for commands.
+This operate buy ticket,cancel ticket,create hall and calculate statistics processes.
